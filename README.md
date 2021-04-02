@@ -1,68 +1,117 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="Calculator" title="#Calculator" src="./assets/calculator.svg" width="200px" />
+</h1>
 
-## Available Scripts
+<p align="center">
+ <img alt="License" src="https://img.shields.io/badge/license-MIT-orange">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafaelabc/calculator">
 
-In the project directory, you can run:
 
-### `yarn start`
+  <a href="https://github.com/tgmarinho/nlw1/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelabc/calculator">
+  </a>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+   <a href="https://github.com/tgmarinho/nlw1/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/forks/rafaelabc/calculator?style=social">
+  </a>
+   <a href="https://github.com/tgmarinho/nlw1/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/rafaelabc/calculator?style=social">
+  </a>
+</p>
+<p align="center">
 
-### `yarn test`
+  <img alt="Web" src="https://img.shields.io/badge/web-react-9cf">
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+  <a href="https://github.com/tgmarinho/nlw1/commits/master">
+    <img alt="Node Version" src="https://img.shields.io/badge/node-12.22.0-blueviolet	">
+  </a>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <img alt="License" src="https://img.shields.io/badge/npm-6.14.11-red">
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## 💻 Sobre o projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+♻️ Calculator - é uma calculadora básica, baseada em calculadoras de desktop e celulares.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Os usuários encontrarão as seguintes funcionalidades:
+- Soma
+- Multiplicação
+- Divisão
+- Subtração
+- Resetar calculadora
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Os usuários terão acesso ao aplicativo web, onde poderão:
+- Realizar operações matemáticas simples e ver seus resultados
+- Resetar a calculadora
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Projeto desenvolvido para estudar e aprender ReactJS
 
-## Learn More
+## 🎨 Layout
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+O layout da aplicação está disponível no Figma:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href="https://www.figma.com/file/6OMfsJRbh8fVdG8GdsScje/Calculator">
+  <img alt="Made by rafaelabc" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
 
-### Code Splitting
+### Web
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Calculator" title="#Calculator" src="./assets/calculadora.png" width="400px">
 
-### Analyzing the Bundle Size
+  <img alt="Calculator" title="#Calculator" src="./assets/calculator-demo.gif" width="400px">
+</p>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## 🛠 Tecnologias
 
-### Making a Progressive Web App
+As seguintes ferramentas foram usadas na construção do projeto:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+- [Node.js][nodejs]
+- [React][reactjs]
 
-### Advanced Configuration
+## 🚀 Como executar o projeto
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Este projeto está dividido apenas em:
+1. FrontEnd
 
-### Deployment
+### Pré-requisitos
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js][nodejs].
+Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
-### `yarn build` fails to minify
+### 🧭 Rodando a aplicação web (Front End)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+```bash
+# Clone este repositório
+$ git clone https://github.com/rafaelabc/calculator
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd calculator
+
+# Instale as dependências
+$ yarn install
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+```
+
+## 📝 Licença
+
+Este projeto esta sobe a licença MIT.
+
+Feito por Rafaela Custódio 👋🏽 [Entre em contato!](https://www.linkedin.com/in/rafaela-custodio/)
+
+[nodejs]: https://nodejs.org/
+[reactjs]: https://reactjs.org
+[rn]: https://facebook.github.io/react-native/
+[yarn]: https://yarnpkg.com/
+[vscode]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[license]: https://opensource.org/licenses/MIT
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+[rs]: https://rocketseat.com.br
