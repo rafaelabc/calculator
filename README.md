@@ -61,7 +61,7 @@ O layout da aplicação está disponível no Figma:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Calculator" title="#Calculator" src="./assets/calculadora.png" width="400px">
+
 
   <img alt="Calculator" title="#Calculator" src="./assets/calculator-demo.gif" width="400px">
 </p>
@@ -70,7 +70,6 @@ O layout da aplicação está disponível no Figma:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Node.js][nodejs]
 - [React][reactjs]
 
 ## 🚀 Como executar o projeto
