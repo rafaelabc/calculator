@@ -25,7 +25,7 @@
 
 
   <a href="https://github.com/tgmarinho/nlw1/commits/master">
-    <img alt="Node Version" src="https://img.shields.io/badge/node-12.22.0-blueviolet	">
+    <img alt="Node Version" src="https://img.shields.io/badge/node-12.22.0-blue	">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/npm-6.14.11-red">
