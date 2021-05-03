@@ -29,9 +29,8 @@
 </p>
 
 
-## 💻 Sobre o projeto
-
-♻️ Calculator - é uma calculadora básica, baseada em calculadoras de desktop e celulares.
+## Sobre o projeto
+Calculator - é uma calculadora básica, baseada em calculadoras de desktop e celulares.
 
 Os usuários encontrarão as seguintes funcionalidades:
 - Soma
@@ -46,7 +45,7 @@ Os usuários terão acesso ao aplicativo web, onde poderão:
 
 Projeto desenvolvido para estudar e aprender ReactJS
 
-## 🎨 Layout
+## Layout
 
 O layout da aplicação está disponível no Figma:
 
@@ -62,13 +61,13 @@ O layout da aplicação está disponível no Figma:
   <img alt="Calculator" title="#Calculator" src="./assets/calculator-demo.gif" width="400px">
 </p>
 
-## 🛠 Tecnologias
+## Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React][reactjs]
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 Este projeto está dividido apenas em:
 1. FrontEnd
@@ -79,7 +78,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js][nodejs].
 Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
-### 🧭 Rodando a aplicação web (Front End)
+### Rodando a aplicação web (Front End)
 
 ```bash
 # Clone este repositório
@@ -97,7 +96,7 @@ $ yarn start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
-## 📝 Licença
+## Licença
 
 Este projeto esta sobe a licença MIT.
 
